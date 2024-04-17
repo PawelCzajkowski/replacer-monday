@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+.video-center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#footer {
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.terms ul {
+  list-style-type: none;
+}
+
+.terms h1, h2, h3, h4 {
+  text-align: center;
+}
+
+#title {
+  font-family: "Segoe Print", sans-serif;
+  font-weight: bolder;
+}
+
+#top-bar {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+img#letterR {
+  margin-right: -10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #e7f1ff;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: whitesmoke;
+}
+
+#description {
+  padding-top: 20px;
+}
+
+#howto {
+  background-color: rgb(201, 253, 253);
+  background-image: linear-gradient(white, 3%, white);
+  padding: 20px;
+}
+
+img.example {
+  margin-top: 15px;
+  margin-left: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#contact {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+#contact a {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+

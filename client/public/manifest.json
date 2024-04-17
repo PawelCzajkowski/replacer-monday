@@ -1,0 +1,9 @@
+{
+  "short_name": "monday.com App",
+  "name": "Replacer monday app",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

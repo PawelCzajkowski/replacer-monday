@@ -1,0 +1,30 @@
+{
+	"type":"app_subscription_created",
+	"data":{
+	  "app_id":1000000000,
+	  "user_id":1,
+	  "user_email":"user1@users.com",
+	  "user_name": "User 1",
+	  "user_cluster": "other",
+	  "account_tier": "free",
+	  "account_name": "Demo Account",
+	  "account_slug": "test",
+	  "account_max_users": 10000,
+	  "account_id":777777,
+	  "version_data":{
+		"major":1,
+		"minor":2, 
+		"patch":0,
+		"type":"minor"
+	  },
+	  "timestamp":"2022-06-23T00:00:00.000+00:00",
+	  "subscription":{
+		"plan_id":"plan1",
+		"renewal_date":"2022-07-19T00:00:00+00:00",
+		"is_trial":false,
+		"billing_period":"monthly",
+		"days_left":26,
+		"pricing_version":5
+	  }
+	}
+  }
