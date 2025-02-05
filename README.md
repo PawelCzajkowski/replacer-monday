@@ -1,3 +1,11 @@
+# This is an extention for monday.com platform
+The goal of this project was to try to create some simple working product.
+I ment to publish it, but in the end I decided to not doing it.
+
+I wanted to learn how to use AWS. This code is written in TypeScript and React.
+
+I made a very simple FAQ page for this extention -> https://replacer.pl/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
